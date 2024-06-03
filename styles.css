@@ -3,8 +3,18 @@ body {
 }
 .follow {
   display: flex;
-  font-size: small;
+ margin-left: 50px;
+  justify-content: space-evenly;
+
 }
+.follow img{
+  margin-top: 6px;;
+}
+.head{
+  font-size: x-small;
+gap:30px;
+}
+
 .linkedin {
   padding-left: 8px;
   height: 20px;
@@ -14,7 +24,11 @@ body {
 .details {
   display: flex;
   margin-left: 410px;
-  font-size: small;
+
+  margin-right: 50px;
+}
+.details img{
+  margin-top: 10px;
 }
 .head {
   display: flex;
